@@ -1,0 +1,54 @@
+.data-sh {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 2.4rem;
+  padding: 2rem 4rem;
+}
+
+.country_box-sh {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 2rem;
+}
+
+.countryCard-sh {
+  width: 14rem;
+  height: fit-content;
+  border-radius: 6px;
+  box-shadow: 4px 4px 6px rgba(155, 155, 155, 0.164);
+  background-color: #3f3f3f;
+  overflow: hidden;
+}
+
+.img-sh {
+  width: 100%;
+  height: 140px;
+  background-color: #858585;
+}
+
+.box-text-sh {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: .8rem .6rem 1.4rem 1rem;
+}
+
+.h3-sh {
+  margin: .8rem 0;
+  background-color: #858585;
+  width: 60%;
+  border-radius: 2px;
+  height: 16px;
+  margin: 0.3rem 0;
+}
+
+.p-sh {
+  background-color: #858585;
+  width: 80%;
+  border-radius: 2px;
+  height: 8px;
+  margin: 0.3rem 0;
+}
